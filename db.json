@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "sdf",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Melon",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
